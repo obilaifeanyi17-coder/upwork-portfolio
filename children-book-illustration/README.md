@@ -7,6 +7,10 @@ I create expressive storybook characters, picture-book scenes, covers, storyboar
 **Tools:** Procreate, Adobe Photoshop and Adobe Illustrator  
 **Illustration direction:** Warm watercolor-inspired digital art, readable compositions, expressive characters and consistent visual storytelling.
 
+## Portfolio showcase
+
+![Children's book illustration portfolio showcase](portfolio-showcase.svg)
+
 > **Portfolio transparency:** The five entries in this folder are concept projects created to demonstrate my creative approach. They are not presented as commissioned client work, published books, testimonials or measured commercial results. Replace or supplement them with original finished artwork and real project details as those become available.
 
 ## Selected concept projects
