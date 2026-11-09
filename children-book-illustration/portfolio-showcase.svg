@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#102b56"/><stop offset="1" stop-color="#347db0"/></linearGradient>
+ <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#30c3d4"/><stop offset="1" stop-color="#07558a"/></linearGradient>
+ <style>
+ .h{font:700 42px Arial,sans-serif;fill:#fff}.sub{font:22px Arial,sans-serif;fill:#e8f3ff}
+ .ct{font:700 23px Arial,sans-serif;fill:#12284a}.tx{font:17px Arial,sans-serif;fill:#30445e}
+ .card{fill:#fff;stroke:#dce7f3;stroke-width:2}.tag{font:700 14px Arial,sans-serif;fill:#fff}
+ </style>
+</defs>
+<rect width="1400" height="900" fill="#f2f6fb"/>
+<rect width="1400" height="190" fill="url(#sky)"/>
+<circle cx="1190" cy="53" r="28" fill="#ffd45c"/><path d="M1190 8l10 30 31 0-25 18 9 30-25-18-25 18 9-30-25-18h31z" fill="#fff1a6" opacity=".85"/>
+<text x="54" y="78" class="h">IFEANYI OBILA</text><text x="56" y="119" class="sub">CHILDREN'S BOOK ILLUSTRATOR</text>
+<text x="56" y="157" class="sub">Storybook Characters • Picture Book Art • Book Covers</text>
+<text x="855" y="91" class="h">Stories brought to life</text><text x="858" y="130" class="sub">Character-led illustration with color, warmth and heart</text>
+<!-- card 1 -->
+<g transform="translate(35 220)"><rect width="420" height="285" rx="18" class="card"/><rect x="10" y="10" width="400" height="180" rx="13" fill="#142d65"/>
+<circle cx="320" cy="55" r="27" fill="#ffe68b"/><path d="M320 16l9 27 28 0-23 17 9 27-23-16-23 16 9-27-23-17h28z" fill="#fff4bd"/>
+<circle cx="155" cy="106" r="48" fill="#8b4b2b"/><circle cx="155" cy="114" r="39" fill="#9d5a36"/><path d="M118 99q5-57 62-42q28 13 15 47q-13-26-77-5" fill="#27182b"/><circle cx="143" cy="111" r="5" fill="#fff"/><circle cx="167" cy="111" r="5" fill="#fff"/><path d="M145 131q12 12 24 0" stroke="#612b26" stroke-width="4" fill="none"/><path d="M122 157q34-23 68 0v32h-68z" fill="#f078a0"/>
+<text x="22" y="225" class="ct">01 · The Little Star Who Found Her Glow</text><text x="22" y="257" class="tx">A gentle bedtime story about courage and confidence.</text></g>
+<!-- card 2 -->
+<g transform="translate(490 220)"><rect width="420" height="285" rx="18" class="card"/><rect x="10" y="10" width="400" height="180" rx="13" fill="#173e42"/>
+<circle cx="320" cy="52" r="34" fill="#f8e7ad"/><path d="M40 190q30-90 65-40q30-70 65 40" fill="#32734e"/><circle cx="170" cy="110" r="42" fill="#9a5937"/><path d="M130 103q2-61 66-45q23 14 17 44q-28-30-83 1" fill="#231b24"/><circle cx="158" cy="111" r="5" fill="#fff"/><circle cx="180" cy="111" r="5" fill="#fff"/><path d="M160 128q10 9 20 0" stroke="#572d24" stroke-width="3" fill="none"/><path d="M138 150q30-18 61 0v40h-61z" fill="#e8ad4f"/><path d="M250 155q-18-25 0-44q25-13 41 8q8 26-14 38z" fill="#d68d51"/><circle cx="262" cy="143" r="3" fill="#fff"/>
+<text x="22" y="225" class="ct">02 · Milo and the Moon Garden</text><text x="22" y="257" class="tx">A moonlit fantasy adventure full of wonder.</text></g>
+<!-- card 3 -->
+<g transform="translate(945 220)"><rect width="420" height="285" rx="18" class="card"/><rect x="10" y="10" width="400" height="180" rx="13" fill="#a9d978"/>
+<path d="M20 172q50-65 95 0M300 174q50-65 90 0" stroke="#4b9a4e" stroke-width="12" fill="none"/><circle cx="180" cy="90" r="43" fill="#8b4c30"/><path d="M137 84q5-55 66-39q21 10 21 38q-32-22-87 1" fill="#24202a"/><circle cx="167" cy="93" r="5" fill="#fff"/><circle cx="191" cy="93" r="5" fill="#fff"/><path d="M167 110q13 11 25 0" stroke="#5b3027" stroke-width="3" fill="none"/><path d="M144 137q35-18 71 0v52h-71z" fill="#f4bd48"/>
+<text x="22" y="225" class="ct">03 · A Garden Full of Numbers</text><text x="22" y="257" class="tx">Playful learning through colorful garden scenes.</text></g>
+<!-- card 4 -->
+<g transform="translate(260 535)"><rect width="420" height="285" rx="18" class="card"/><rect x="10" y="10" width="400" height="180" rx="13" fill="#f6c77f"/>
+<circle cx="110" cy="78" r="31" fill="#9b5734"/><circle cx="205" cy="80" r="32" fill="#6b3929"/><circle cx="300" cy="80" r="30" fill="#bd7950"/><path d="M74 132q37-25 72 0v57H74z" fill="#3e8d74"/><path d="M168 134q37-25 74 0v55h-74z" fill="#e8798e"/><path d="M265 132q37-25 72 0v57h-72z" fill="#4b83c7"/><path d="M40 178q150-30 330 0" stroke="#5b8a46" stroke-width="8" fill="none"/>
+<text x="22" y="225" class="ct">04 · Nia's Big Family Picnic</text><text x="22" y="257" class="tx">A warm story about family and togetherness.</text></g>
+<!-- card 5 -->
+<g transform="translate(720 535)"><rect width="420" height="285" rx="18" class="card"/><rect x="10" y="10" width="400" height="180" rx="13" fill="url(#sea)"/>
+<path d="M30 165q55-45 105 0t105 0t105 0t45 0" stroke="#8ce4e6" stroke-width="8" fill="none"/><ellipse cx="270" cy="105" rx="55" ry="36" fill="#8dbd63"/><circle cx="321" cy="100" r="22" fill="#8dbd63"/><circle cx="328" cy="95" r="4" fill="#152d44"/><path d="M232 86l-30-24 9 42M260 135l-20 27 38-10" fill="#8dbd63"/><circle cx="105" cy="75" r="30" fill="#9b5734"/><path d="M75 109q30-18 60 0v48H75z" fill="#f0ad44"/>
+<text x="22" y="225" class="ct">05 · The Ocean Needs a Hero</text><text x="22" y="257" class="tx">An uplifting story about protecting marine life.</text></g>
+<text x="1180" y="600" font-family="Arial" font-size="20" font-weight="bold" fill="#163052">CREATIVE SERVICES</text>
+<text x="1180" y="642" class="tx">• Character design</text><text x="1180" y="676" class="tx">• Storyboard &amp; spreads</text><text x="1180" y="710" class="tx">• Book covers</text><text x="1180" y="744" class="tx">• Print-ready artwork</text>
+<text x="1180" y="800" font-family="Arial" font-size="16" fill="#52647b">Procreate • Photoshop • Illustrator</text>
+</svg>
